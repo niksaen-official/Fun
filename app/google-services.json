@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031839500368",
+    "project_id": "chivl-d14af",
+    "storage_bucket": "chivl-d14af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031839500368:android:b99ba18f7c0db4ff162955",
+        "android_client_info": {
+          "package_name": "aafun.gamesfootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031839500368-sv2b1dur9m49qj1oh8q9splaa3uqbfbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7m-sXYESpHBqFXXAmHWxt_z09asCXP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031839500368-sv2b1dur9m49qj1oh8q9splaa3uqbfbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
